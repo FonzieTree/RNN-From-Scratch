@@ -1,3 +1,6 @@
+# December 2017 by Shuming Fang. 
+# fangshuming519@gmail.com.
+# https://github.com/FonzieTree
 import copy, numpy as np
 import time
 np.random.seed(0)
